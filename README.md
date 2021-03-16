@@ -9,7 +9,7 @@ Photo by <a href="https://unsplash.com/@ldandersen?utm_source=unsplash&utm_mediu
 
 ### Overall Impression
 
-
+I love learning all of these loading animations! What I want to know is how to implement them by necessity. I want to use the loading animation only until the content has loaded. Is there a way to check if the page has actually loaded and then stop the loading animation rather than using arbitrary setTimeout times? I will need to do some research...
 
 ### Things Learned
 
