@@ -14,3 +14,4 @@ Photo by <a href="https://unsplash.com/@ldandersen?utm_source=unsplash&utm_mediu
 ### Things Learned
 
 * &nbsp is an HTML entity that means non-breaking space -will not break to a new line
+* object-fit is used to set how the contents of img/video should be resized to fit container. Similar options to background-size
